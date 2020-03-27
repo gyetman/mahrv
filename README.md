@@ -10,3 +10,5 @@ The results are visualized as a map in a [public viewer](https://columbia.maps.a
 The project is described at:
 
 https://mahrv.ciesin.columbia.edu/
+
+The MaHRV portal also allows to contribute data and obtain information about the villages. The models will be regularly updated as more village data become available.
