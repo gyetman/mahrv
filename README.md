@@ -1,5 +1,5 @@
 # MAHRV
-The code on this page is for estimating population in Mangrove villages in West Africa and was developed under the project "Estimating and mapping populations in off-grid and hard-to-reach places" and use crowd-sourced village population data along with other covariates. 
+The code in this repository is for estimating population in Mangrove villages in West Africa and was developed under the project "Estimating and mapping populations in off-grid and hard-to-reach places" and use crowd-sourced village population data along with other covariates. 
 
 Two models were used for the estimation: a linear model and Random Forest Tree.
 
